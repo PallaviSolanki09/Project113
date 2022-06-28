@@ -1,0 +1,17 @@
+h3{
+    font-size: 25px !important;
+}
+
+button{
+    font-size: 17px;
+}
+
+canvas {
+    border: 3px solid black;
+}
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/04/06/10/08/background-1311251__340.jpg");
+    background-position: center;
+    background-size: cover;
+}
